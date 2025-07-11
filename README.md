@@ -1,4 +1,4 @@
-# 📩 Spam Classifier with Naive Bayes (Scikit-learn)
+Spam Classifier with Naive Bayes
 
 This project implements a classic machine learning model to classify SMS messages as spam*or ham (not spam) using the Kaggle SMS Spam Collection dataset. 
 It uses TF-IDF vectorization to transform text data and a Multinomial Naive Bayes classifier to perform the classification.
